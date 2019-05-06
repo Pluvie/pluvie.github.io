@@ -19,7 +19,7 @@ A lot of our daily brain activity is based around this: `expectations`. What are
 You might say that this is part of planning ahead, and in part it is true. Especially in software design, doing things about what you expect your users are going to like is fundamental.
 
 But in all cases, no matter what, expectations are synonym of limitations. In spite of all experience and far-sightedness you may have, the reality is always unpredictable, and therefore, un-*expectable*.
-Relying too much on expectationg, is going to impact heavily on your brain and your overall performance. Your ability to keep concentrated and focused will decrease with time, and your brain will suffer caged in endless _what-is-going-to-happen_ loops.
+Relying too much on expectations is going to impact heavily on your brain and your overall performance. Your ability to keep concentrated and focused will decrease with time, and your life will suffer caged in endless _what-is-going-to-happen_ loops.
 
 The antitode thought for expectations are __objectives__.
 Learning, slowly but faithfully, to stop thinking about expectations and instead focusing on your objectives and goals is the key to free yourself from this chain.
@@ -35,49 +35,22 @@ For example, instead of thinking _"What is my boss going to say about my present
 Anybody ever heard him say this?
 The biggest fears in our life come from inside us. Sure there are catastrophic events, economic pitfalls, global pollution, but what is really going to impact on our success or failure is 99% coming from within us.
 
-You are probably thinking "Ok now he's telling about mastering my fears, etc.", but no, I don't really think this is possible. I tried, damn hard even, but I'm now deeply convinced that the story about _"overcome your fears by facing them"_ is pretty much lie.
+You are probably thinking "Ok now he's telling about mastering my fears, etc.", but no, I don't really think this is possible. I tried, damn hard even, but I'm now deeply convinced that the story about _"overcome your fears by facing them"_ is pretty much a lie.
 
 What worked for me, and I believe works for everyone, is not facing your fear, but substitute it with a faithful thought.
 
 Now I'm not talking about religion here, just the English meaning of the world faith: to __believe__ in something.
-When you have fear, any kind of fear, you are basically not believing that something will happen, but if you look at it from the outside you'll realize immediately that it is downright stupid.
+When you have fear, any kind of fear, you are basically not believing that something will happen, but if you look at it from the outside you'll realize immediately that's downright stupid.
 
 1. How are you going to know for sure that something will not happen?
 2. No matter your skills and preparation, nothing is going to depend _only_ on you, __except the actual choice of believing or not believing in it__.
 3. Even if something in the past did not work, this does not absolutely mean that everything else is going to fail.
 
-By replacing the thought _"I'm not going to make it."_ with a simple, yet more realistic and efficient "_I don't know if I'm going to make it, thus this entire though is irrelevant."_ you have actually overcame and defeated your fear.
+By replacing the thought _"I'm not going to make it."_ with a simple, yet more realistic and efficient "_I don't know if I'm going to make it, thus this entire thought is irrelevant."_ you have actually overcame and defeated your fear.
 
 #### __START AGAIN__
 
 Back to our topic, the fresh start, I've learned that a new beginning brings always some destabilizing side-effects, but instead of living them building false expectations or blocking fears, we have the wonderful possibility to use them as opportunities to improve our self-confidence and problem solving techniques.
 
-See you soon!
-
-
-
-
-
-
-
-
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Thanks for reading,
+see you soon!
